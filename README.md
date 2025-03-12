@@ -16,6 +16,9 @@ To refer to this session's presentation, please refer to this [slide deck](https
 
 We’ll also demonstrate live browsing capabilities, showing how the AI retrieves real-time information from the web and answers advanced queries based on current, publicly available data.
 
+## Usage
+Follow the instructions from this [github repo](https://github.com/browser-use/web-ui).
+
 
 ## Contact
 
